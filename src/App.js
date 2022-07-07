@@ -1,4 +1,3 @@
-import "./App.css";
 import "./style.css";
 import { useReducer } from "react";
 import DigitButton from "./DigitButton";
