@@ -1,6 +1,7 @@
-#HERE THE GITHUB PAGE OF MY APPLICATION
+# HERE THE GITHUB PAGE OF MY APPLICATION
 https://semihbk.github.io/react-calculator/
 
+*******************************************
 
 # Getting Started with Create React App
 
